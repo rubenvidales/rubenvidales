@@ -5,7 +5,7 @@
 <p align="center" width="300">
     <img align="center" width="200" src="https://raw.githubusercontent.com/rubenvidales/rubenvidales/main/profile_avatar.png" alt="avatar image"/>
     <p align="center">
-    Me and Abby by <a href="https://srtam.com/" target="blank">Srta. M</a>
+    Me and Abby by <a href="https://srtam.com/" target="_blank">Srta. M</a>
     </p>
 </p>
 
