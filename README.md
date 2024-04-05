@@ -2,13 +2,20 @@
 
 <h3 align="center">Front-end Web Developer</h3>
 
-<h4 align="center">Sobre mí / About me</h4>
+<p align="center" width="300">
+    <img align="center" width="200" src="https://raw.githubusercontent.com/rubenvidales/rubenvidales/main/profile_avatar.png" alt="avatar image"/>
+    <p align="center">
+    Me and Abby by <a href="https://srtam.com/" target="blank">Srta. M</a>
+    </p>
+</p>
+
+<h3 align="center">Sobre mí / About me</h3>
 
 <p align="justify">
 Mi nombre es Rubén Vidales y actualmente me dedico al desarrollo front-end (mayormente con JavaScript y React), aunque al haberme dedicado anteriormente al diseño gráfico y al desarrollo back-end (mayormente con PHP), considero que tengo un perfil multidisciplinar y adaptable. / <i>My name is Rubén Vidales and I am currently dedicated to front-end development (mostly with JavaScript and React), although having previously worked in graphic design and back-end development (mostly with PHP), I consider that I have a multidisciplinary and adaptable profile.</i>
 </p>
 
-<h4 align="center">Estoy aprendiendo 💻 I’m currently learning </h4>
+<h3 align="center">Estoy aprendiendo 💻 I’m currently learning </h3>
 
 <p align="justify">
 En constante aprendizaje, actualmente estoy afianzado mis conocimientos en las tecnologías que uso de forma habitual, pero no me cierro a aprender nuevos lenguajes y patrones que mejoren y completen mi perfil. / <i>Constantly learning, I am currently strengthening my knowledge in the technologies I use daily, but I am not closed to learning new languages and patterns that improve and complete my profile.</i>
@@ -37,7 +44,7 @@ En constante aprendizaje, actualmente estoy afianzado mis conocimientos en las t
 </p>
 
 
-<h4 align="center">Contacto / Contact</h4>
+<h3 align="center">Contacto / Contact</h3>
 
 <p align="justify">
 Tienes disponibles en la columna izquierda 👈 mis redes sociales, mi página personal y mi email, siéntete libre de contactar conmigo. / <i>You have available in the left column 👈 my social networks, my personal page and my email, feel free to contact me.</i>
